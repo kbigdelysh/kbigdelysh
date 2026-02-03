@@ -14,6 +14,7 @@
 
 ## Current Projects
 
+- 💕 **HamsarYabi** (closed-source) - Premium dating web application with a twist
 - 🌐 **[badavi](https://github.com/kbigdelysh/badavi)** - A tool that converts a collection of markdown files with interlinking URLs into a static website (TypeScript)
 
 ## Legacy Work
