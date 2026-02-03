@@ -1,6 +1,6 @@
 # Hi, I'm Kamran 👋
 
-💼 **Sr. Software Engineer** | 🎯 **Deep Work Advocate**
+📍 **California** | 💼 **Sr. Software Engineer @ Microsoft** | 🎯 **Deep Work Advocate**
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -8,7 +8,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Pascal](https://img.shields.io/badge/-Pascal-E3F171?style=flat-square&logo=delphi&logoColor=black)
 
-> Passionate about VR development, developer tools, and fostering inclusive tech communities.
+> Versatile full-stack software engineer with diverse experience in AI applications. Proven track record of building robust solutions for high-profile clients like Microsoft, Meta, Samsung, VW, and Hasbro. I've led a team of software engineers in developing and integrating real-time embedded software across multiple hardware and software environments.
 
 ---
 
