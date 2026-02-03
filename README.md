@@ -23,29 +23,21 @@
 
 - 🎯 **[tank_game](https://github.com/bigdelys/tank_game)** - A classic Tank Game with procedural landscapes (Pascal)
 
----
-
 ## What I'm About
 
 - 🔬 **Deep Work** - Believer in focused, distraction-free work for maximum impact
 - 👩‍💻 **Women-in-STEM Advocate** - Supporting diversity and inclusion in technology
 - 🥽 **VR Enthusiast** - Building tools for virtual reality development
 
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamloo/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kbigdelysh)
-
----
 
 ## GitHub Stats
 
 ![Kamran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kbigdelysh&show_icons=true&theme=default&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kbigdelysh&layout=compact&hide_border=true)
-
----
 
 > "Deep work is the ability to focus without distraction on a cognitively demanding task." — Cal Newport
