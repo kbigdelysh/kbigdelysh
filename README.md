@@ -14,13 +14,13 @@
 
 ## Current Projects
 
-- 🥽 **[HTCViveRawData](https://github.com/kbigdelysh/HTCViveRawData)** - Prints raw positional data (location & rotation) from HTC Vive headset and controllers in real-time with high-resolution timestamps (C++)
 - 🌐 **[badavi](https://github.com/kbigdelysh/badavi)** - A tool that converts a collection of markdown files with interlinking URLs into a static website (TypeScript)
-- 🎮 **[FreePIE-HTCVive-Custom-Controller](https://github.com/kbigdelysh/FreePIE-HTCVive-Custom-Controller)** - Replace HTC Vive controllers with your own custom controllers using FreePIE (C#)
-- 📱 **[libgdx-two-finger-rotation](https://github.com/kbigdelysh/libgdx-two-finger-rotation)** - Android app demonstrating two-finger rotation around Z axis using libgdx (Java)
 
 ## Legacy Work
 
+- 🥽 **[HTCViveRawData](https://github.com/kbigdelysh/HTCViveRawData)** - Prints raw positional data (location & rotation) from HTC Vive headset and controllers in real-time with high-resolution timestamps (C++)
+- 🎮 **[FreePIE-HTCVive-Custom-Controller](https://github.com/kbigdelysh/FreePIE-HTCVive-Custom-Controller)** - Replace HTC Vive controllers with your own custom controllers using FreePIE (C#)
+- 📱 **[libgdx-two-finger-rotation](https://github.com/kbigdelysh/libgdx-two-finger-rotation)** - Android app demonstrating two-finger rotation around Z axis using libgdx (Java)
 - 🎯 **[tank_game](https://github.com/bigdelys/tank_game)** - A classic Tank Game with procedural landscapes (Pascal)
 
 ## What I'm About
