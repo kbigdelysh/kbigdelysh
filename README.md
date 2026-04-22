@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-- 💕 **HamsarYabi** (closed-source) - Dating web app with a twist
+- 💕 **HamsarYabi** (closed-source) - Matchmaking web app with a twist
 - 🔤 **[Pyrillic](https://chromewebstore.google.com/detail/pyrillic/fhhaagmpbklijmnadbhpdlilaifjplhc)** - Chrome extension that converts Persian text to Tajik Cyrillic using OpenAI API (TypeScript, Azure Web Apps, Redis)
 - 📝 **[Laatingar](https://chromewebstore.google.com/detail/laatingar/ocenbjkcnofdjgcnnflejdlkfjlhhbja)** - Chrome extension that converts Persian script to Finglish for second-generation Persian speakers (e.g., "سلام" → "salaam")
 - 🌐 **[badavi](https://github.com/kbigdelysh/badavi)** - A tool that converts a collection of markdown files with interlinking URLs into a static website (TypeScript)
