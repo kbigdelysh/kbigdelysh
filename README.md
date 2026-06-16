@@ -1,6 +1,6 @@
 # Hi, I'm Kamran 👋
 
-💼 **Sr. Software Engineer** | 🎯 **Deep Work Advocate**
+💼 **Sr. Applied AI Engineer** | 🎯 **Deep Work Advocate**
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
